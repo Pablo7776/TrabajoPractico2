@@ -26,6 +26,11 @@ namespace S6_EC_SWITCH
             Console.WriteLine("ingrese el quinto numero");
             int numero5 = Int32.Parse(Console.ReadLine());
 
+
+            /////////////////////////////////////////////////////////////////
+            ///MAYORES
+            ////////////////////////////////////////////////////////////////
+
             if ((numero1 > numero2) & (numero1 > numero3) & (numero1 > numero4) & (numero1 > numero5))
             {
                 Console.WriteLine($"el numero {numero1} el el mayor");

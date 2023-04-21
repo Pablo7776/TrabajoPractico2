@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.33502.453
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EJERCICO1", "TrabajoPractico2\EJERCICO1.csproj", "{0A7A3124-9DDC-49A7-B802-2481B636FFCF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EJERCICO2", "EJERCICO2\EJERCICO2.csproj", "{F8C9B368-F742-4A6C-BD90-77CB0C77A8C6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{0A7A3124-9DDC-49A7-B802-2481B636FFCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A7A3124-9DDC-49A7-B802-2481B636FFCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A7A3124-9DDC-49A7-B802-2481B636FFCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8C9B368-F742-4A6C-BD90-77CB0C77A8C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8C9B368-F742-4A6C-BD90-77CB0C77A8C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8C9B368-F742-4A6C-BD90-77CB0C77A8C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8C9B368-F742-4A6C-BD90-77CB0C77A8C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

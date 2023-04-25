@@ -37,6 +37,7 @@ namespace S4Enum
                 string letras = Console.ReadLine();
 
                 string l1 = (letras.Substring(2));
+
                 string l2 =(letras.Substring(1,1));
                 string l3 = (letras.Substring(0,1));
 
